@@ -1,7 +1,6 @@
 package co.jp.cloudbyte.StudentManagement.service.SearchService;
 
 import co.jp.cloudbyte.StudentManagement.entity.UserInfo;
-import co.jp.cloudbyte.StudentManagement.form.RegisterForm;
 import co.jp.cloudbyte.StudentManagement.repository.UserInfoMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
